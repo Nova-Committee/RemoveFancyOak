@@ -1,0 +1,13 @@
+modLoader = "lowcodefml"
+loaderVersion = "[44,)"
+license = "GNU AGPL 3.0"
+[[mods]]
+modId = "removefancyoak"
+version = "${file.jarVersion}"
+displayName = "RemoveFancyOak"
+authors = [
+    "Rinko1231",
+    "Tapio"
+]
+displayTest = "IGNORE_SERVER_VERSION"
+description = "Remove fancy oak, woodcutter strong!"
